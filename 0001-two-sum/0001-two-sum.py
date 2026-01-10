@@ -1,3 +1,4 @@
+#Hash table solution
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         da_gap = {}
