@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hieuworks/Leetcode_Python/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/hieuworks/Leetcode_Python/tree/master/0014-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/hieuworks/Leetcode_Python/tree/master/0014-longest-common-prefix) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/hieuworks/Leetcode_Python/tree/master/2264-largest-3-same-digit-number-in-string) |
 ## Math
 |  |
@@ -25,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/hieuworks/Leetcode_Python/tree/master/0342-power-of-four) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/hieuworks/Leetcode_Python/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
