@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/hieuworks/Leetcode_Python/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/hieuworks/Leetcode_Python/tree/master/0020-valid-parentheses) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/hieuworks/Leetcode_Python/tree/master/2264-largest-3-same-digit-number-in-string) |
 ## Math
 |  |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/hieuworks/Leetcode_Python/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/hieuworks/Leetcode_Python/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
