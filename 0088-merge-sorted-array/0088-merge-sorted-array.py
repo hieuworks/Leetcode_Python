@@ -10,9 +10,10 @@ class Solution:
                 # nums1[p1] lon nhat -> ve cuoi chuoi
                 nums1[p] = nums1[p1]
 
-                #Lui lai de so sanh so lon thu 2
+                #Lui lai de so sanh so lon thu 2 cua nums1 va so lon nhat nums2 - lap lien tuc het chuoi
                 p1 -= 1
             else:
+                #nguoc lai thi nums2[p2] lon hon
                 nums1[p] = nums2[p2]
                 p2 -= 1
             p -= 1
